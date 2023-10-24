@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tp3</string>
+    <string name="nom">nom</string>
+    <string name="prenom">prenom</string>
+    <string name="email">email</string>
+    <string name="valider">valider</string>
+    <string name="ecrire_votre_nom">Ecrire votre nom</string>
+    <string name="ecrire_votre_prenom">Ecrire votre prenom</string>
+    <string name="ecrire_votre_email">Ecrire votre email</string>
+    <string name="classe">Classe:</string>
+    <string name="partager">Partager</string>
+    <string name="email1">Email:</string>
+    <string name="nom1">Nom:</string>
+
+</resources>
